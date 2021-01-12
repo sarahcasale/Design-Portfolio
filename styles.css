@@ -1,0 +1,223 @@
+.home-page {
+  background-color: white;
+  position: absolute;
+  top: 150px;
+}
+
+#title {
+  font-family: futura;
+  font-size: 75px;
+  text-align: center;
+  color: #6d6d6d;
+  font-weight: bold;
+}
+
+.type {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 370px;
+  height: 200px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.graphics {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 370px;
+    height: 200px;
+    margin: 50px;
+    background: #bfbff2;
+    border-radius: 100px;
+    box-shadow: 3px 3px 3px #c9c9c9;
+
+    font-family: futura;
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+    transition-duration: .4s;
+}
+
+.expinter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 370px;
+  height: 200px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.album {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 370px;
+  height: 200px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.sentences {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 370px;
+    height: 200px;
+    margin: 50px;
+    background: #bfbff2;
+    border-radius: 100px;
+    box-shadow: 3px 3px 3px #c9c9c9;
+
+    font-family: futura;
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+    transition-duration: .4s;
+}
+
+.booklet {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 370px;
+  height: 200px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.denmark1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 370px;
+  height: 200px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.denmark2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 370px;
+    height: 200px;
+    margin: 50px;
+    background: #bfbff2;
+    border-radius: 100px;
+    box-shadow: 3px 3px 3px #c9c9c9;
+
+    font-family: futura;
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+    transition-duration: .4s;
+}
+
+.insulin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 370px;
+  height: 200px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.glucosemonitor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 400px;
+  height: 2000px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+.home {
+  font-family: futura;
+  font-size: 35px;
+  text-align: center;
+  color: #876dbf;
+  font-weight: bold;
+  text-decoration: none;
+  position: absolute;
+  top: -150px;
+  left: 20px;
+}
+
+.home:hover {
+  color: #a087d4;
+  text-decoration: underline;
+}
+
+a:hover {
+  transform: scale(1.15);
+  transition-duration: .4s;
+  text-decoration: none;
+}

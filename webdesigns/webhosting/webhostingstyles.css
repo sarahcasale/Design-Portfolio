@@ -1,0 +1,93 @@
+.home-page {
+  background-color: white;
+}
+
+#title {
+  font-family: futura;
+  font-size: 75px;
+  text-align: center;
+  color: #6d6d6d;
+  font-weight:bold;
+  position: absolute;
+  top: 75px;
+  left: 185px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 286px;
+  height: 132px;
+  margin: 50px;
+  background: #bfbff2;
+  border-radius: 100px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+
+  font-family: futura;
+  font-size: 40px;
+  color: white;
+  text-decoration: none;
+  transition-duration: .4s;
+}
+
+a:hover {
+  transform: scale(1.15);
+  transition-duration: .4s;
+  text-decoration: none;
+}
+
+.assignment-page {
+  background: white;
+}
+
+#first, #second, #third,
+#fourth, #fifth, #sixth, #seventh, #eighth, #ninth {
+  position: relative;
+  background-color:  #bfbff2;
+  color: white;
+  align-items: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.assignment3-page {
+  margin-top: 250px;
+}
+
+#first3, #second3, #third3 {
+  background-color:  #bfbff2;
+  color: white;
+}
+
+.assignment4-page {
+  margin-top: 250px;
+  margin-left: 200px;
+}
+
+#first4, #second4 {
+  text-align: center;
+  background-color:  #bfbff2;
+  color: white;
+}
+
+#first8, #second8 {
+  text-align: center;
+  background-color:  #bfbff2;
+  color: white;
+}
+
+.assignment8-page {
+  margin-top: 250px;
+}
